@@ -1,0 +1,1 @@
+document.getElementById('app').innerHTML='Basic 30 Mbps Rp135.000<br>Family 50 Mbps Rp165.000';
